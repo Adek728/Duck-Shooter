@@ -1,0 +1,2 @@
+a, a Jego wynik to: 3
+a, a Jego wynik to: 5
