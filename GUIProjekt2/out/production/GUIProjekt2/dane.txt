@@ -1,8 +1,2 @@
-Mati, a Jego wynik to: 50
-robert, a Jego wynik to: 43
-adam, a Jego wynik to: 41
-michal, a Jego wynik to: 9
-dwa, a Jego wynik to: 8
-qe, a Jego wynik to: 6
-a, a Jego wynik to: 5
 a, a Jego wynik to: 3
+a, a Jego wynik to: 5

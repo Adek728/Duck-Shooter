@@ -130,7 +130,7 @@ public class OknoStartowe extends JFrame{
     public void odczyt(){
         BufferedReader bufferedReader = null;
         try {
-            File file = new File("C:\\Users\\user\\Desktop\\GUIProjekt2\\out\\production\\GUIProjekt2\\dane.txt");
+            File file = new File("src//dane.txt");
             bufferedReader = new BufferedReader(new FileReader(file));
             String line;
 
@@ -147,7 +147,7 @@ public class OknoStartowe extends JFrame{
     public void zapis(){
         PrintWriter pw = null;
         try {
-            pw = new PrintWriter(new FileOutputStream("C:\\Users\\user\\Desktop\\GUIProjekt2\\out\\production\\GUIProjekt2\\dane.txt"));
+            pw = new PrintWriter(new FileOutputStream("src//dane.txt"));
             for(String text : lista){
                 pw.write(text);
                 pw.write("\n");

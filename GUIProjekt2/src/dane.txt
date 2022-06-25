@@ -1,2 +1,3 @@
-a, a Jego wynik to: 3
+dawdaw, a Jego wynik to: 8
 a, a Jego wynik to: 5
+a, a Jego wynik to: 3
